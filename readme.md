@@ -2,7 +2,7 @@
 # Olá, seja bem vindo(a) ao meu perfil 😄
 
 <div>
-  <img align="right" padding-top="30px" width="150" height="200" src="https://github.com/andressatoledo/perfil/blob/main/imagens/blueperfil.png">
+  <img align="right" width="150" height="200" src="https://github.com/andressatoledo/perfil/blob/main/imagens/blueperfil.png">
 
   Eu sou a Andressa, tenho 20 anos e atualmente moro em Jacareí-SP.
   
