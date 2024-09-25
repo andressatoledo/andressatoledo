@@ -13,13 +13,17 @@
   - ❤︎  Convertendo desafios em soluções inovadoras e eficazes.
 </div>
 
-## 📊 Most Used Languages
+## 📊 Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressatoledo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## Andressa Toledo GitHub Stats
+## 🖥️ Tecnologias 
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sql&theme=dark" />
+
+## Status
 
 ![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressatoledo&show_icons=true&theme=radical)
 
