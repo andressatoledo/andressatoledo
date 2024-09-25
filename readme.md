@@ -1,7 +1,8 @@
 
 # Olá, seja bem vindo(a) ao meu perfil c:
 
-<img align="right" width="200" height="200" src="[https://blinkenzo.com/wp-content/uploads/2020/07/Cat-Van-Gogh.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsaudacao-valeu-tamo-junto-tmj-apoio-gif-12743789&psig=AOvVaw0RPfQ5vCCdO4ITISqMObuC&ust=1727374413636000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJis-KPZ3ogDFQAAAAAdAAAAABAE)">
+<img align="right" width="200" height="200" src="https://media.tenor.com/P2WAq5-yKxUAAAAd/saudacao-valeu.gif">
+
 
 Eu sou a Andressa, tenho 20 anos e atualmente moro em Jacareí-SP.
 
