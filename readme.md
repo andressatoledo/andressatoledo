@@ -1,5 +1,5 @@
 
-# Olá, seja bem vindo(a) ao meu perfil c:
+# Olá, seja bem vindo(a) ao meu perfil 😄
 
 <img align="right" width="150" height="200" src="https://github.com/andressatoledo/perfil/blob/main/imagens/blueperfil.png">
 
