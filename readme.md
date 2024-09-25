@@ -8,11 +8,8 @@ Eu sou a Andressa, tenho 20 anos e atualmente moro em Jacareí-SP.
 
 - 👩‍💻 Desenvolvedora de software
 - 💻 Ensino médio com técnico em informática
-- Desenvolvimento de software multiplataformas [Fatec - Jacareí].
-
-
-
-
+- 🎓 Desenvolvimento de software multiplataformas [Fatec - Jacareí].
+- 🎯 Adotando a Metodologia Ágil
 
 
 ## 📊 Most Used Languages
