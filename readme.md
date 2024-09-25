@@ -10,7 +10,7 @@
   - 💻 Ensino médio com técnico em informática
   - 🎓 Desenvolvimento de software multiplataformas [Fatec - Jacareí].
   - 🎯 Adotando a Metodologia Ágil
-
+  - ❤︎  Convertendo desafios em soluções inovadoras e eficazes.
 </div>
 
 ## 📊 Most Used Languages
