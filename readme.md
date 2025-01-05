@@ -4,7 +4,7 @@
 <div>
   <img align="right" width="150" height="200" src="https://github.com/andressatoledo/perfil/blob/main/imagens/blueperfil.png">
 
-  Eu sou a Andressa, tenho 20 anos e atualmente moro em Jacareí-SP.
+  Eu sou a Andressa, tenho 21 anos e atualmente moro em Jacareí-SP.
   
   - 👩‍💻 Desenvolvedora de software
   - 💻 Ensino médio com técnico em informática
