@@ -29,4 +29,4 @@
 
 ---
 
-🔗 [Clique aqui para visualizar o meu perfil completo no LinkedIn](https://www.linkedin.com/in/andressa-toledo/)
+🔗 [Clique aqui para visualizar o meu perfil completo no LinkedIn](https://www.linkedin.com/in/andressatoledo/)
