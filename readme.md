@@ -18,7 +18,7 @@
 
 ## 🖥️ Tecnologias 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,sql,react,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sql,react&theme=dark" />
 
 
 ---
