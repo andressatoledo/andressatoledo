@@ -13,9 +13,6 @@
   - ❤︎  Convertendo desafios em soluções inovadoras e eficazes.
 </div>
 
-## 📊 Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressatoledo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -23,9 +20,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,sql&theme=dark" />
 
-## Status
-
-![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressatoledo&show_icons=true&theme=radical)
 
 ---
 
