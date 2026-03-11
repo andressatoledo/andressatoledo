@@ -18,8 +18,9 @@
 
 ## 🖥️ Tecnologias 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react, mongodb,postgres&theme=dark" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mongodb,postgres&theme=dark" />
+</p>
 
 ---
 
