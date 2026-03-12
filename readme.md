@@ -23,5 +23,9 @@
 </p>
 
 ---
+## 📊 Estatísticas do GitHub
+
+![Andressa GitHub stats](https://github-readme-stats.vercel.app/api?username=andressatoledo&show_icons=true&theme=tokyonight)
+---
 
 🔗 [Clique aqui para visualizar o meu perfil completo no LinkedIn](https://www.linkedin.com/in/andressatoledo/)
